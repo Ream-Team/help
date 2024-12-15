@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Ream Help
+description: The official Ream Help site, where you can find tips and guides on how to use Ream.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://Ream-Team.github.io/help
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/Ream-Team/help
