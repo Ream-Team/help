@@ -23,8 +23,6 @@ To begin, click the "New Project" button. You'll be presented with two options:
 
 If you have existing projects, you can import them by compressing your files (.zip or .tar.gz) and uploading them through the import interface.
 
-![Import projects screen](0a2e5f8647.png)
-
 The import feature supports:
 - Single compressed projects (containing .tex, .bib, and other files)
 - Multiple compressed projects (as a zipped folder of .zip files)
@@ -35,8 +33,6 @@ Files up to 50MB are supported, and Ream will automatically detect and handle th
 
 To start fresh, select "Create a New Project" and you'll see a project setup form.
 
-![New project creation screen](45fc594a5f.png)
-
 1. Enter your project name in the provided field
 2. Template selection (coming soon)
 3. Collaborator invitation (coming soon)
@@ -46,8 +42,6 @@ Click "Create Project" to proceed.
 ### The Editor Interface
 
 After creating your project, you'll be taken to the Ream editor interface where you can begin working on your document.
-
-![Ream editor interface](ea562411c7.png)
 
 The editor provides:
 - A split-view interface with code on the left and preview on the right
@@ -69,4 +63,4 @@ From here, you can:
 - Include mathematical equations and figures
 - Compile your document to see the results in real-time
 
-For more detailed information about using specific features, please consult the relevant sections of our documentation.
+For more detailed information about using specific features, please consult [Writing in Ream](../writing-editing).

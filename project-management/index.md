@@ -13,7 +13,7 @@ The project management interface consists of two main sections:
 1. **Recently Viewed** - Displays up to four of your most recently accessed projects
 2. **My Projects** - Contains your complete project list with pagination support
 
-![Project management overview](88dcc6dec7.png)
+![Project management overview](8a6457d491.png)
 
 ### Project Status Categories
 
@@ -35,8 +35,6 @@ To delete projects:
 2. Click the "Delete Selected" button that appears
 3. Confirm deletion in the popup
 
-![Delete project selection](cb0b499cb8.png)
-
 ### Tagging Projects
 
 Tags help organize and filter your projects:
@@ -45,19 +43,13 @@ Tags help organize and filter your projects:
 2. Enter a new tag name (e.g., "CS101") in the tag creation field
 3. Tags will appear in both Grid and List views
 
-![Tag creation interface](ca2467e30f.png)
-
 Tagged projects display their tags in the project list:
-
-![Projects with tags](8a6457d491.png)
 
 ## Filtering and Sorting
 
 ### Tag Filtering
 
 Use the tag filter to show only projects with specific tags:
-
-![Tag filtering interface](b6c6671861.png)
 
 ### Sort Options
 
@@ -70,16 +62,12 @@ And ordered by:
 - Most recent first
 - Least recent first
 
-![Sort options menu](47b517bb91.png)
-
 ### Additional Options
 
 The More Options menu provides additional functionality:
 - Download source files
 - Download PDF (coming soon)
 - Delete project (coming soon)
-
-![Additional options menu](516aeff6e2.png)
 
 ## Search Functionality
 
