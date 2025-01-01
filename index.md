@@ -6,41 +6,48 @@ nav_order: 1
 
 # Welcome to Ream Documentation
 
-Welcome to the official documentation for Ream. Here you'll find everything you need to know about using Ream's web-based LaTeX editor.
+## Overview
+Ream is a powerful web-based LaTeX editor designed for academic writing and collaboration. This documentation provides comprehensive guidance on using Ream's features, from getting started to advanced collaboration tools.
 
 ## Getting Access
 
-There are two ways to get access to Ream:
+### Description
+There are two primary methods to gain access to Ream:
 
-1. **Early Access Waitlist**: Sign up at [tryream.com](https://tryream.com) and wait for your invitation
-2. **User Invitation**: Receive an invitation from an existing Ream user
+### Available Options
+1. **Early Access Waitlist**
+   - Sign up at [tryream.com](https://tryream.com)
+   - Wait for your invitation email
 
-## Account Creation
+2. **User Invitation**
+   - Receive an invitation from an existing Ream user
+   - Follow the invitation link
 
-Once you have access, here's how to create your account:
+## Account Setup
 
-1. Click the signup link from either your waitlist approval or user invitation
+### Description
+Create and activate your Ream account through our secure verification process.
+
+### How to Create an Account
+1. Click the signup link from your invitation
 2. Enter your name and email address
-3. Check your email inbox for a temporary welcome code
-4. Enter the welcome code to activate your account
+3. Check your email for a temporary welcome code
+4. Enter the code to activate your account
 
-Note: If you don't receive the welcome code within a few minutes, check your spam folder or request a new code.
+Note: Check your spam folder if you don't receive the welcome code within a few minutes.
 
-## Quick Start
+## Documentation Sections
 
-After activating your account:
+### Core Documentation
+- [Getting Started](getting-started) - Create your first project
+- [Project Management](project-management) - Organize and track projects
+- [Writing & Editing](writing-editing) - Use the editor and its features
+- [Collaboration](collaboration) - Work with team members
+- [Ream Assistant](ream-assistant) - Leverage AI-powered features
 
-- [Getting Started](getting-started) - Learn how to create your first project
-- [Project Management](project-management) - Manage your projects across their entire lifecycle
-- [Writing & Editing](writing-editing) - Master the essential writing and editing features
-- [Collaboration](collaboration) - Invite collaborators and work alongside them
-- [Ream Assistant](ream-assistant) - Learn more about our LLM-powered features
-
-## Getting Help
-
+### Support Resources
 - Join our [community Discord](https://discord.gg/QaAhWUtFqt)
 - Contact [support](mailto:support@ream.org)
 
 ## Contributing
-
-This documentation is open source. If you find any issues or would like to contribute improvements, please visit our [GitHub repository](https://github.com/ream-team/help).
+This documentation is open source. To contribute improvements or report issues, visit our [GitHub repository](https://github.com/ream-team/help).

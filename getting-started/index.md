@@ -6,61 +6,74 @@ nav_order: 2
 
 # Getting Started with Ream
 
-Ream is a platform designed to make academic writing easier. This guide will walk you through creating your first project in Ream.
+## Overview
+
+Ream is a powerful academic writing platform that streamlines the document creation process. This guide walks you through setting up your first project and introduces you to Ream's core features.
 
 ## Creating a New Project
 
-When you first log into Ream, you'll be presented with a welcome screen that invites you to create your first project.
+### Key Features
+- Project creation wizard
+- Template selection system
+- Project import capabilities
+- Collaborative editing support
+
+### Usage Instructions
+
+1. Log into your Ream account
+2. Click the "New Project" button on the welcome screen
+3. Choose between:
+   - Creating a new project from scratch
+   - Importing an existing project
 
 ![Ream welcome screen](05de1bc1f7.png)
 
-To begin, click the "New Project" button. You'll be presented with two options:
+### Project Import
 
-1. Import an existing project
-2. Create a new project from scratch
+**Description**: Import existing academic projects directly into Ream.
 
-### Importing Projects
+**Supported Formats**:
+- Single project archives (.zip, .tar.gz)
+- Multi-project collections
+- Maximum file size: 50MB
 
-If you have existing projects, you can import them by compressing your files (.zip or .tar.gz) and uploading them through the import interface.
+**Import Steps**:
+1. Compress your project files
+2. Select "Import Project" option
+3. Upload your compressed file
+4. Follow the import wizard
 
-The import feature supports:
-- Single compressed projects (containing .tex, .bib, and other files)
-- Multiple compressed projects (as a zipped folder of .zip files)
+### New Project Creation
 
-Files up to 50MB are supported, and Ream will automatically detect and handle the upload type appropriately.
+**Description**: Start a fresh project with Ream's template system.
 
-### Creating a New Project
+**Setup Process**:
+1. Enter your project name
+2. Select a document template
+3. Invite collaborators (optional)
+4. Click "Create Project"
 
-To start fresh, select "Create a New Project" and you'll see a project setup form.
+## Working in the Editor
 
-1. Enter your project name in the provided field
-2. Template selection (coming soon)
-3. Collaborator invitation (coming soon)
-
-Click "Create Project" to proceed.
-
-### The Editor Interface
-
-After creating your project, you'll be taken to the Ream editor interface where you can begin working on your document.
-
-The editor provides:
-- A split-view interface with code on the left and preview on the right
+### Key Features
+- Split-view interface
+- Real-time preview
 - Built-in LaTeX support
-- Real-time preview compilation
-- File management tools in the left sidebar
-- Compilation controls in the top toolbar
+- File management system
+- Compilation controls
 
-Your new project will start with a basic template that includes:
-- Document class and package declarations
-- Basic structure with Introduction, Main Content, and Conclusion sections
-- Sample equation and formatting examples
+### Default Project Structure
+- Document class configuration
+- Package declarations
+- Standard sections (Introduction, Main Content, Conclusion)
+- Example formatting and equations
 
 ## Next Steps
 
-From here, you can:
-- Edit the starter template to build your document
-- Add new sections and content
-- Include mathematical equations and figures
-- Compile your document to see the results in real-time
+To begin working on your document:
+1. Customize the starter template
+2. Add your content sections
+3. Insert equations and figures
+4. Use real-time compilation to preview changes
 
-For more detailed information about using specific features, please consult [Writing in Ream](../writing-editing).
+For detailed feature instructions, visit [Writing in Ream](../writing-editing).

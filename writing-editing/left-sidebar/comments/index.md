@@ -6,44 +6,40 @@ grand_parent: Writing in Ream
 nav_order: 4
 ---
 
-# Comments (Annotations and Suggestions)
+# Comments
 
-The editor provides comprehensive commenting capabilities similar to Google Docs, allowing users to add, manage, and resolve comments at both file and selection levels.
+## Overview
+The Comments feature provides comprehensive annotation and suggestion capabilities similar to Google Docs, enabling users to add, manage, and resolve comments throughout their documents. Comments can be added at both the file level and for specific text selections.
 
-## Comment Types
+## How to Access
+Access the Comments panel through the left sidebar by clicking the Comments icon or using the keyboard shortcut `Ctrl+Shift+C` (Windows/Linux) or `Cmd+Shift+C` (Mac).
 
-### File-Level Comments
-When no text is selected in the editor or when viewing a static file, users can add comments that apply to the entire file. These comments appear in the Comments sidebar on the left.
+## Available Features
 
-### Selection-Based Comments
-Users can add comments to specific selections of text within the editor. When adding a comment to selected text, the selection context is preserved and displayed along with the comment in the sidebar.
+### Comment Types
+- **File-Level Comments**: Add comments that apply to the entire document
+- **Selection Comments**: Add comments to specific text selections within the document
 
 ![Comments interface showing file and selection comments](916bff397d.png)
 
-## Managing Comments
+### Core Functions
+- **Adding Comments**: 
+  - Click "Add Comment to File" for file-level comments
+  - Select text and click the comment icon for selection comments
+- **Managing Comments**:
+  - Reply to existing comments
+  - Resolve comments using the checkmark
+  - Edit or delete comments via the ellipsis (...) menu
+- **Viewing History**: Access resolved comments through "View Resolved Annotations"
 
-The Comments sidebar provides several options for managing comments:
-
-### Basic Actions
-- **Add Comment**: Click the "Add Comment to File" button or select text and add a comment
-- **Reply**: Use the reply box below any comment to add responses
-- **Resolve**: Click the checkmark to resolve a comment
-- **Edit/Delete**: Access additional options via the ellipsis (...) menu next to each comment
-
-### Advanced Features
-- **View Resolved Comments**: Access previously resolved comments by clicking "View Resolved Annotations" in the bottom left
-- **Suggestions Mode**: The editor supports a suggestions mode that allows tracking proposed changes:
-  - Changes made in suggestion mode appear alongside regular comments
-  - Both AI-generated and human suggestions are displayed uniformly in the comments interface
-  - Users can review and manage suggestions similar to regular comments
-
-## Comment Organization
-- Active comments appear in the main Comments sidebar
-- Resolved comments are automatically moved to the Resolved Annotations section
-- Comments maintain context by displaying the original selection when applicable
+### Suggestions Mode
+- Create and track proposed text changes
+- Review both AI-generated and human suggestions
+- Accept or reject suggestions directly in the interface
 
 ## Best Practices
-- Use file-level comments for general feedback or notes about the entire document
-- Use selection-based comments for specific feedback about particular sections or elements
-- Resolve comments once they've been addressed to keep the sidebar organized
-- Utilize the suggestions mode when proposing specific text changes
+- Use file-level comments for general document feedback
+- Apply selection comments for specific content feedback
+- Resolve comments promptly after addressing them
+- Utilize suggestions mode for proposing specific text changes
+- Maintain clear and concise comment language

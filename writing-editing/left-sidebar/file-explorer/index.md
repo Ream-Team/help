@@ -6,10 +6,62 @@ grand_parent: Writing in Ream
 nav_order: 1
 ---
 
-# File Explorer Documentation
+# File Explorer
 
 ## Overview
-The File Explorer is a core component that allows users to create, modify, and manage files within a project. This documentation covers the main features and functionality of the File Explorer interface.
+The File Explorer is a core component in Ream's left sidebar that provides comprehensive file management capabilities. It enables users to create, organize, and manage all files within their projects through an intuitive interface.
+
+## Key Features
+
+### File Management Interface
+**Description**  
+The File Explorer interface provides a hierarchical view of all project files and folders.
+
+**How to Access**  
+Located in the left sidebar of the Ream interface, accessible immediately upon opening any project.
+
+**Available Features**
+- File tree navigation
+- Create new files/folders via the "+" button
+- File search functionality
+- Deleted files access
+
+### File Operations
+**Description**  
+Comprehensive set of file management operations accessible through the context menu.
+
+**How to Access**  
+Right-click on any file or folder in the File Explorer.
+
+**Available Options**
+- Create new files/folders
+- Upload files (up to 50MB)
+- Rename files/folders
+- Delete files/folders
+- Download files
+- Copy file paths
+- View file history
+
+### File History and Recovery
+**Description**  
+Track changes and restore previous versions of files.
+
+**How to Access**  
+Select "Show history" from the file context menu.
+
+**Available Features**
+- Version timeline
+- Author information
+- Version comparison
+- File restoration
+- Deleted file recovery
+
+## Best Practices
+- Organize files in logical folder structures
+- Use consistent file naming conventions
+- Regularly check deleted files for needed recovery
+- Utilize file paths for cross-referencing in documents
+- Keep file sizes under 50MB for optimal performance
 
 ## Basic Interface
 ![File Explorer Interface](5c0db99ccb.png)

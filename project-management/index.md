@@ -6,44 +6,81 @@ nav_order: 3
 
 # Managing Projects
 
-## Project Views and Organization
+## Overview
 
-The project management interface consists of two main sections:
+The project management system helps you organize, track, and maintain your projects efficiently. It provides flexible views, filtering options, and collaborative features to streamline your workflow.
 
-1. **Recently Viewed** - Displays up to four of your most recently accessed projects
-2. **My Projects** - Contains your complete project list with pagination support
+## Core Features
+
+### Project Views and Organization
+
+The interface consists of two main sections:
+
+1. **Recently Viewed** - Quick access to your four most recently accessed projects
+2. **My Projects** - Complete project list with pagination support
 
 ![Project management overview](8a6457d491.png)
 
-### Project Status Categories
+### Project Status Management
 
-The My Projects section offers four filtering options:
+Projects can be organized into the following categories:
 
-- All
+- All Projects
 - In Progress
 - Completed 
 - Collaborations
 
-Project status (In Progress/Completed) is determined by settings within the Editor View. The Collaborations filter shows projects with added collaborators.
+You can change a project's status (In Progress/Completed) through the Editor View settings.
 
-## Project Operations
+### Project Operations
 
-### Deleting Projects
+#### Creating and Deleting Projects
 
 To delete projects:
 1. Select one or more projects from the list
-2. Click the "Delete Selected" button that appears
-3. Confirm deletion in the popup
+2. Click "Delete Selected"
+3. Confirm your choice in the confirmation dialog
 
-### Tagging Projects
+#### Project Tagging
 
-Tags help organize and filter your projects:
+Tags help organize and categorize your projects:
 
-1. Click the Tags button
-2. Enter a new tag name (e.g., "CS101") in the tag creation field
-3. Tags will appear in both Grid and List views
+Key features:
+- Create custom tags (e.g., "CS101", "Research")
+- Apply multiple tags to projects
+- Filter projects by tags
+- View tags in both Grid and List views
 
-Tagged projects display their tags in the project list:
+To add tags:
+1. Select a project
+2. Click the Tags button
+3. Enter the tag name
+4. Press Enter to save
+
+### Search and Filter Options
+
+#### Filtering Capabilities
+- Filter by project status
+- Filter by tags
+- Filter by collaboration status
+
+#### Sorting Options
+- Last edited (newest/oldest)
+- Name (A-Z/Z-A)
+- Date created (newest/oldest)
+
+### View Options
+
+Switch between two display modes:
+- List View: Detailed project information in rows
+- Grid View: Visual card-based layout
+
+### Additional Features
+
+Access these features through the More Options menu:
+- Download source files
+- Download PDF (coming soon)
+- Delete project (coming soon)
 
 ## Filtering and Sorting
 
