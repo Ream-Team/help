@@ -11,7 +11,6 @@ Ream is a powerful web-based LaTeX editor designed for academic writing and coll
 
 ## Getting Access
 
-### Description
 There are two primary methods to gain access to Ream:
 
 ### Available Options
@@ -25,7 +24,6 @@ There are two primary methods to gain access to Ream:
 
 ## Account Setup
 
-### Description
 Create and activate your Ream account through our secure verification process.
 
 ### How to Create an Account
@@ -39,11 +37,10 @@ Note: Check your spam folder if you don't receive the welcome code within a few 
 ## Documentation Sections
 
 ### Core Documentation
-- [Getting Started](getting-started) - Create your first project
-- [Project Management](project-management) - Organize and track projects
-- [Writing & Editing](writing-editing) - Use the editor and its features
-- [Collaboration](collaboration) - Work with team members
-- [Ream Assistant](ream-assistant) - Leverage AI-powered features
+- [Getting Started](getting-started) - Creating your first project
+- [Projects](projects) – Writing papers in Ream
+- [Collaboration](collaboration) – Working with others
+- [Assistant](assistant) – Supercharging your process
 
 ### Support Resources
 - Join our [community Discord](https://discord.gg/QaAhWUtFqt)

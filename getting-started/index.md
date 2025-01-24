@@ -4,76 +4,70 @@ layout: default
 nav_order: 2
 ---
 
-# Getting Started with Ream
+# Getting Started
 
-## Overview
+This page describes how to get started on a new project and how to edit your profile.
 
-Ream is a powerful academic writing platform that streamlines the document creation process. This guide walks you through setting up your first project and introduces you to Ream's core features.
+## Import from Overleaf
 
-## Creating a New Project
+First, go to your Overleaf account and download the projects of interest. You can do this individually by clicking on the "Download" icon on the project's row.
 
-### Key Features
-- Project creation wizard
-- Template selection system
-- Project import capabilities
-- Collaborative editing support
+![Overleaf single project download](overleaf-download-single.jpeg)
 
-### Usage Instructions
+Alternatively, you can select multiple projects and download them in bulk.
 
-1. Log into your Ream account
-2. Click the "New Project" button on the welcome screen
-3. Choose between:
-   - Creating a new project from scratch
-   - Importing an existing project
+![Overleaf bulk project download](overleaf-download-bulk.jpeg) 
 
-![Ream welcome screen](05de1bc1f7.png)
+You should then get a .zip file in your Downloads directory containing your projects. Navigate to Ream and click on the `New Project` button.
 
-### Project Import
+![New Project button](new-project-button.jpeg)
 
-**Description**: Import existing academic projects directly into Ream.
+Clicking `New Project` should direct you to a page with two options: importing a project or starting one from scratch. Import a project by dragging in your .zip file or by selecting the file.
 
-**Supported Formats**:
-- Single project archives (.zip, .tar.gz)
-- Multi-project collections
-- Maximum file size: 50MB
+![import project](import-project.jpeg)
 
-**Import Steps**:
-1. Compress your project files
-2. Select "Import Project" option
-3. Upload your compressed file
-4. Follow the import wizard
+You should see a preview of the imported projects once upload is completed. From there, select `Confirm Upload`. 
 
-### New Project Creation
+![confirm upload](confirm-upload.jpeg)
 
-**Description**: Start a fresh project with Ream's template system.
+If you uploaded a single project, you will be redirected to the project. If you uploaded projects in bulk, you will be returned to the home page, where you can find the projects in the `My Projects` section.
 
-**Setup Process**:
-1. Enter your project name
-2. Select a document template
-3. Invite collaborators (optional)
-4. Click "Create Project"
+![uploaded projects](uploaded-projects.jpeg)
 
-## Working in the Editor
 
-### Key Features
-- Split-view interface
-- Real-time preview
-- Built-in LaTeX support
-- File management system
-- Compilation controls
+## Import from ArXiv
 
-### Default Project Structure
-- Document class configuration
-- Package declarations
-- Standard sections (Introduction, Main Content, Conclusion)
-- Example formatting and equations
+First, navigate to the ArXiv paper of interest. Then, click on the `Tex Source` link under the `Access Paper` section of the right sidebar.
 
-## Next Steps
+![TeX source](tex-source.jpeg)
 
-To begin working on your document:
-1. Customize the starter template
-2. Add your content sections
-3. Insert equations and figures
-4. Use real-time compilation to preview changes
+You should then get a .zip file in your Downloads directory containing the TeX source of the ArXiv paper. Navigate to Ream and click on the `New Project` button.
 
-For detailed feature instructions, visit [Writing in Ream](../writing-editing).
+![New Project button](new-project-button.jpeg)
+
+Clicking `New Project` should direct you to a page with two options: importing a project or starting one from scratch. Import a project by dragging in your .zip file or by selecting the file.
+
+![import project](import-project.jpeg)
+
+You should see a preview of the imported projects once upload is completed. From there, select `Confirm Upload`. On upload success, you will be redirected to the project.
+
+## Start from scratch
+
+First, click on the "New Project" button in the top right corner of the home page.
+
+![New Project button](new-project-button.jpeg)
+
+Clicking `New Project` should direct you to a page with two options: importing a project or starting one from scratch. Find the latter option and give your project a name. Then, click `Create Project` in the bottom right corner.
+
+![create new project](create-new-project.jpeg)
+
+Clicking `Create Project` should redirect you to the project. The default project will render a basic LaTeX template, compiled with `pdflatex`.
+
+## Edit your profile
+
+Click on the user icon at the top of the home page, then click on `Settings`. This will navigate you to the user settings page.
+
+![settings](settings.jpeg)
+
+From there, you can edit your avatar and username, update your editor theme, and configure your [Assistant settings](../assistant/index.md).
+
