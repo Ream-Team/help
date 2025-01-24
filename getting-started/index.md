@@ -69,5 +69,5 @@ Click on the user icon at the top of the home page, then click on `Settings`. Th
 
 ![settings](settings.jpeg)
 
-From there, you can edit your avatar and username, update your editor theme, and configure your [Assistant settings](../assistant/index.md).
+From there, you can edit your avatar and username, update your editor theme, and configure your [Assistant settings](../assistant).
 

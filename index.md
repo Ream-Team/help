@@ -38,13 +38,13 @@ Note: Check your spam folder if you don't receive the welcome code within a few 
 
 ### Core Documentation
 - [Getting Started](getting-started) - Creating your first project
+- [Assistant](assistant) – Supercharging your process
 - [Projects](projects) – Writing papers in Ream
 - [Collaboration](collaboration) – Working with others
-- [Assistant](assistant) – Supercharging your process
 
 ### Support Resources
 - Join our [community Discord](https://discord.gg/QaAhWUtFqt)
 - Contact [support](mailto:support@ream.org)
 
 ## Contributing
-This documentation is open source. To contribute improvements or report issues, visit our [GitHub repository](https://github.com/ream-team/help).
+Documentation missing something? Contribute improvements or report issues at our [GitHub repository](https://github.com/ream-team/help)!
