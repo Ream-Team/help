@@ -14,11 +14,11 @@ We are still rapidly iterating on the app and experimenting with different prici
 
 ### What's an "Anthropic API token"?
 
-Ream Assistant is currently powered by Anthropic's [Claude Sonnet 3.5 language model](https://www.anthropic.com/claude) due to its strong LaTeX expertise and low latency responses. An API token is a key that enables the user to use Claude Sonnet in applications beyond Anthropic [chat site](https://claude.ai/). Note: this means that you will be charged according to Anthropic's API [pricing](https://www.anthropic.com/pricing).
+Ream Assistant is currently powered by Anthropic's <a href="https://www.anthropic.com/claude" target="_blank">Claude Sonnet 3.5 language model</a> due to its strong LaTeX expertise and low latency responses. An API token is a key that enables the user to use Claude Sonnet in applications beyond Anthropic <a href="https://claude.ai/" target="_blank">chat site</a>. Note: this means that you will be charged according to Anthropic's API <a href="https://www.anthropic.com/pricing" target="_blank">pricing</a>.
 
 ### Getting an Anthropic API token
 
-First, create an Anthropic account [here.](https://console.anthropic.com/login). 
+First, create an Anthropic account <a href="https://console.anthropic.com/login" target="_blank">here</a>. 
 
 #### Adding Credits
 
@@ -44,7 +44,7 @@ Once you are on the API page, click `Create Key` and follow instructions. You ca
 
 Copy the API token. We recommend not closing the API token pop-up until you have completed uploading it to Ream, because you will not be able to view it again.
 
-Finally, open [Ream account settings](https://app.tryream.com/settings/account) and paste your Anthropic API token into the Anthropic API Key field. Click "Save" and Ream Assistant features should now be available in the app!
+Finally, open <a href="https://app.tryream.com/settings/account" target="_blank">Ream account settings</a> and paste your Anthropic API token into the Anthropic API Key field. Click "Save" and Ream Assistant features should now be available in the app!
 
 ![Ream Anthropic settings](ream-anthropic.jpeg)
 

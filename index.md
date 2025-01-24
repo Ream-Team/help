@@ -15,7 +15,7 @@ There are two primary methods to gain access to Ream:
 
 ### Available Options
 1. **Early Access Waitlist**
-   - Sign up at [tryream.com](https://tryream.com)
+   - Sign up at <a href="https://tryream.com" target="_blank">tryream.com</a>
    - Wait for your invitation email
 
 2. **User Invitation**
@@ -43,8 +43,8 @@ Note: Check your spam folder if you don't receive the welcome code within a few 
 - [Collaboration](collaboration) – Working with others
 
 ### Support Resources
-- Join our [community Discord](https://discord.gg/QaAhWUtFqt)
-- Contact [support](mailto:support@ream.org)
+- Join our <a href="https://discord.gg/QaAhWUtFqt" target="_blank">community Discord</a>
+- Contact <a href="mailto:support@ream.org">support</a>
 
 ## Contributing
-Documentation missing something? Contribute improvements or report issues at our [GitHub repository](https://github.com/ream-team/help)!
+Documentation missing something? Contribute improvements or report issues at our <a href="https://github.com/ream-team/help" target="_blank">GitHub repository</a>!
